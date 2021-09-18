@@ -1,0 +1,416 @@
+1631921875431	geckodriver	INFO	Listening on 127.0.0.1:59869
+1631921875807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezGhuuZ"
+1631921914211	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezGhuuZ/search.json.mozlz4", (void 0)))
+1631921934513	Marionette	INFO	Listening on port 39023
+1631921935075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631921943532	Marionette	INFO	Stopped listening on port 39023
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631921962348	geckodriver	INFO	Listening on 127.0.0.1:35713
+1631921963362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevV9ZGt"
+1631922114331	geckodriver	INFO	Listening on 127.0.0.1:53417
+1631922114341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen7bMSm"
+1631922121019	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen7bMSm/search.json.mozlz4", (void 0)))
+1631922126781	Marionette	INFO	Listening on port 33469
+1631922128320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+1631922134505	Marionette	INFO	Stopped listening on port 33469
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.error: "Could not load engine yahoo-esar@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine duckduckgo@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1631922136817	geckodriver	INFO	Listening on 127.0.0.1:59781
+1631922137830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5DFDT"
+1631922239628	geckodriver	INFO	Listening on 127.0.0.1:49907
+1631922239639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBsyDfp"
+1631922246047	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBsyDfp/search.json.mozlz4", (void 0)))
+1631922252279	Marionette	INFO	Listening on port 35659
+1631922252416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922259783	Marionette	INFO	Stopped listening on port 35659
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631922262398	geckodriver	INFO	Listening on 127.0.0.1:37933
+1631922263409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1mCpx"
+1631922319740	geckodriver	INFO	Listening on 127.0.0.1:54817
+1631922319750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePtdXRA"
+1631922326203	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePtdXRA/search.json.mozlz4", (void 0)))
+1631922332291	Marionette	INFO	Listening on port 44031
+1631922332817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922341416	Marionette	INFO	Stopped listening on port 44031
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631922343308	geckodriver	INFO	Listening on 127.0.0.1:38043
+1631922344322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDNkpjs"
+1631922351134	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDNkpjs/search.json.mozlz4", (void 0)))
+1631922356797	Marionette	INFO	Listening on port 41637
+1631922358296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922366029	Marionette	INFO	Stopped listening on port 41637
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631922368122	geckodriver	INFO	Listening on 127.0.0.1:47705
+1631922369136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexwZIID"
+1631922375817	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexwZIID/search.json.mozlz4", (void 0)))
+1631922382342	Marionette	INFO	Listening on port 43493
+1631922382430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922390446	Marionette	INFO	Stopped listening on port 43493
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631922392542	geckodriver	INFO	Listening on 127.0.0.1:40787
+1631922393554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBPpOeR"
+1631922400049	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBPpOeR/search.json.mozlz4", (void 0)))
+1631922406234	Marionette	INFO	Listening on port 41529
+1631922406329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922416298	Marionette	INFO	Stopped listening on port 41529
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631922419126	geckodriver	INFO	Listening on 127.0.0.1:36199
+1631922420134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile11FQ3W"
+1631922426491	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile11FQ3W/search.json.mozlz4", (void 0)))
+1631922433269	Marionette	INFO	Listening on port 37115
+1631922433320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922441136	Marionette	INFO	Stopped listening on port 37115
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631922443212	geckodriver	INFO	Listening on 127.0.0.1:38177
+1631922444225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqg2pH5"
+1631922450775	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqg2pH5/search.json.mozlz4", (void 0)))
+1631922456244	Marionette	INFO	Listening on port 33815
+1631922457726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631922465946	Marionette	INFO	Stopped listening on port 33815
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631924690767	geckodriver	INFO	Listening on 127.0.0.1:59079
+1631924690776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemeBuPE"
+*** You are running in headless mode.
+1631924696883	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemeBuPE/search.json.mozlz4", (void 0)))
+1631924703398	Marionette	INFO	Listening on port 38035
+1631924703454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631924711251	Marionette	INFO	Stopped listening on port 38035
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631925275556	geckodriver	INFO	Listening on 127.0.0.1:44699
+1631925275567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMjFNoP"
+*** You are running in headless mode.
+1631925281102	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMjFNoP/search.json.mozlz4", (void 0)))
+1631925286789	Marionette	INFO	Listening on port 37123
+1631925288251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631925296118	Marionette	INFO	Stopped listening on port 37123
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631926264289	geckodriver	INFO	Listening on 127.0.0.1:52325
+1631926264299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVgJnT"
+*** You are running in headless mode.
+1631926269787	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezVgJnT/search.json.mozlz4", (void 0)))
+1631926275248	Marionette	INFO	Listening on port 35267
+1631926276828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631926284621	Marionette	INFO	Stopped listening on port 35267
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631926323490	geckodriver	INFO	Listening on 127.0.0.1:57997
+1631926323500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilena2miN"
+*** You are running in headless mode.
+1631926329265	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilena2miN/search.json.mozlz4", (void 0)))
+1631926334965	Marionette	INFO	Listening on port 40237
+1631926335074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1631926343905	Marionette	INFO	Stopped listening on port 40237
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631927315059	geckodriver	INFO	Listening on 127.0.0.1:52773
+1631927315068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezJlp3t"
+*** You are running in headless mode.
+1631927320902	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezJlp3t/search.json.mozlz4", (void 0)))
+1631927326674	Marionette	INFO	Listening on port 43065
+1631927326745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631927334642	Marionette	INFO	Stopped listening on port 43065
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631927337010	geckodriver	INFO	Listening on 127.0.0.1:35663
+1631927338023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileow6GJg"
+*** You are running in headless mode.
+1631927344133	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileow6GJg/search.json.mozlz4", (void 0)))
+1631927349796	Marionette	INFO	Listening on port 46767
+1631927349897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631927359277	Marionette	INFO	Stopped listening on port 46767
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631927361134	geckodriver	INFO	Listening on 127.0.0.1:60461
+1631927669494	geckodriver	INFO	Listening on 127.0.0.1:53675
+1631927669503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB78lWb"
+*** You are running in headless mode.
+1631927674992	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB78lWb/search.json.mozlz4", (void 0)))
+1631927680812	Marionette	INFO	Listening on port 39719
+1631927680876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631927687333	Marionette	INFO	Stopped listening on port 39719
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1631927689815	geckodriver	INFO	Listening on 127.0.0.1:60153
+1631927690827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerS2PWn"
+*** You are running in headless mode.
+1631927986131	geckodriver	INFO	Listening on 127.0.0.1:54105
+1631927986140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefLyU3v"
+*** You are running in headless mode.
+1631927992306	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefLyU3v/search.json.mozlz4", (void 0)))
+1631927998186	Marionette	INFO	Listening on port 40453
+1631927998710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928006681	Marionette	INFO	Stopped listening on port 40453
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631928008445	geckodriver	INFO	Listening on 127.0.0.1:43667
+1631928009458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile39zNdq"
+*** You are running in headless mode.
+1631928014892	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile39zNdq/search.json.mozlz4", (void 0)))
+1631928020718	Marionette	INFO	Listening on port 39035
+1631928020835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928029566	Marionette	INFO	Stopped listening on port 39035
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631928031440	geckodriver	INFO	Listening on 127.0.0.1:36411
+1631928032453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUVD25p"
+*** You are running in headless mode.
+1631928037651	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUVD25p/search.json.mozlz4", (void 0)))
+1631928043036	Marionette	INFO	Listening on port 44567
+1631928043520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928050881	Marionette	INFO	Stopped listening on port 44567
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631928052748	geckodriver	INFO	Listening on 127.0.0.1:39701
+1631928053760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUuRv2B"
+*** You are running in headless mode.
+1631928058772	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUuRv2B/search.json.mozlz4", (void 0)))
+1631928064347	Marionette	INFO	Listening on port 35427
+1631928065853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928073046	Marionette	INFO	Stopped listening on port 35427
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631928806215	geckodriver	INFO	Listening on 127.0.0.1:50989
+1631928806224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoU8mqU"
+*** You are running in headless mode.
+1631928812268	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoU8mqU/search.json.mozlz4", (void 0)))
+1631928817824	Marionette	INFO	Listening on port 43769
+1631928819325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928826789	Marionette	INFO	Stopped listening on port 43769
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631928828651	geckodriver	INFO	Listening on 127.0.0.1:54825
+1631928829665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCY5Cy"
+*** You are running in headless mode.
+1631928835355	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyCY5Cy/search.json.mozlz4", (void 0)))
+1631928840771	Marionette	INFO	Listening on port 44681
+1631928842238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928850004	Marionette	INFO	Stopped listening on port 44681
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631928851849	geckodriver	INFO	Listening on 127.0.0.1:52145
+1631928852862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdJx98"
+*** You are running in headless mode.
+1631928858423	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletdJx98/search.json.mozlz4", (void 0)))
+1631928864334	Marionette	INFO	Listening on port 41663
+1631928865856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928872757	Marionette	INFO	Stopped listening on port 41663
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631928874710	geckodriver	INFO	Listening on 127.0.0.1:51071
+1631928875721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0s36EN"
+*** You are running in headless mode.
+1631928881024	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0s36EN/search.json.mozlz4", (void 0)))
+1631928886845	Marionette	INFO	Listening on port 41965
+1631928888315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631928895853	Marionette	INFO	Stopped listening on port 41965
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
